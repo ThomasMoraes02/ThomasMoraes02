@@ -15,6 +15,6 @@
 ### About me
 
 - 💻 I am currently a developer at the **Barueri Department of Education**.
-- 🌱 Learning more about and studying: **PHP Codeigiter, SQL , Git, JavaScript and **.
+- 🌱 Learning more about and studying: **PHP Codeigiter, SQL , Git, JavaScript and**.
 - 👨‍Age: **20 years**.
 

@@ -14,8 +14,8 @@
 
 ### About me
 
-- 💻 I am currently a developer at the **Semexe.com**.
-- 🌱 Learning more about and studying: **PHP, SQL, HTML, CSS, JavaScript and JQuery**.
-- Frameworks: **Codeigniter 3, (Currently studying Laravel for PHP) and Bootstrap 4**.
-- 👨‍Age: **21 years**.
+- 💻  I am currently a developer at the **Semexe.com**.
+- 🌱  Learning more about and studying: **PHP, SQL, HTML, CSS, JavaScript and JQuery**.
+-  Frameworks: **Codeigniter 3, (Currently studying Laravel for PHP) and Bootstrap 4**.
+- 👨‍ Age: **21 years**.
 

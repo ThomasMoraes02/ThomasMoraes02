@@ -14,8 +14,8 @@
 
 ### About me
 
-- 💻 I am currently a developer at the **Barueri Department of Education**.
+- 💻 I am currently a developer at the **Semexe.com**.
 - 🌱 Learning more about and studying: **PHP, SQL, HTML, CSS, JavaScript**.
 - Frameworks: **Codeigniter 3, (Currently studying Laravel for PHP)**.
-- 👨‍Age: **20 years**.
+- 👨‍Age: **21 years**.
 

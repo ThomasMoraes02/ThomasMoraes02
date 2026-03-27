@@ -14,10 +14,9 @@
 
 ### 🧑‍💻 About Me
 
-- 💻 Currently working as a developer at **Semexe**
+- 💻 Currently working as a Tech Lead at **Semexe**
 - 🌱 Studying: **Clean Architecture, DDD, TDD, Design Patterns and best practices**
-- 🐘 PHP enthusiast with experience in high-performance and asynchronous systems
-- 🚲 Fun fact: I work at a marketplace for used bikes!
+- PHP/JS enthusiast with experience in high-performance and asynchronous systems
 
 ---
 

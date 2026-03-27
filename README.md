@@ -15,7 +15,7 @@
 ### About me
 
 - 💻  I am currently a developer at the **Semexe**.
-- 🌱  Learning more about and studying: **PHP, SQL, JavaScript, Design Patterns, Clean Code, Clean Architecture and best practices**.
--  Frameworks: **Codeigniter 3, Ecommerce Cscart and currently studying Laravel for PHP**.
-- 👨‍ Age: **22 years**.
+- 🌱  Learning more about and studying: **PHP, SQL, JavaScript, TypeScript, Design Patterns, Clean Code, Clean Architecture and best practices**.
+-  Frameworks: **Laravel, Slim, Codeigniter 3, Ecommerce Cscart**.
+- 👨‍ Age: **25 years**.
 

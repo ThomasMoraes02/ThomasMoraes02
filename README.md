@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Thomas Moraes 👋</h1>
 
 <p align="center">
-  <b>Backend Software Engineer</b> · PHP Specialist · Semexe
+  <b>Software Engineer</b> · PHP | NodeJS
 </p>
 
 <p align="center">

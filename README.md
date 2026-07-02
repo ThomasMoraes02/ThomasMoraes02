@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-- 💻 Currently working as a Tech Lead at **Semexe**
+- 💻 Currently working as a Software Engineer at **Tivit**
 - 🌱 Studying: **Clean Architecture, DDD, TDD, Design Patterns and best practices**
 - PHP/JS enthusiast with experience in high-performance and asynchronous systems
 

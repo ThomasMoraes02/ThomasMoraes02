@@ -70,7 +70,8 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ThomasMoraes02&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Thomas Moraes' GitHub stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasMoraes02&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages" />
+<img src="https://img.shields.io/github/followers/ThomasMoraes02?label=Followers&style=for-the-badge&logo=github&color=24292e&labelColor=24292e" alt="Followers" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FThomasMoraes02&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=24292e&labelColor=24292e" alt="Public Repos" />
+<img src="https://komarev.com/ghpvc/?username=ThomasMoraes02&label=Profile%20Views&style=for-the-badge&color=24292e" alt="Profile Views" />
 
 </div>

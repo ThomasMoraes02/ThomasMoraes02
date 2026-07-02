@@ -2,7 +2,7 @@
 
 # Hi, I'm Thomas Moraes 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=339933&center=true&vCenter=true&width=520&lines=Software+Engineer+%40+Tivit;PHP+%7C+Node.js+%7C+TypeScript;Clean+Architecture+%7C+DDD+%7C+TDD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=339933&center=true&vCenter=true&width=560&lines=Software+Engineer+%40+Tivit+-+Decisions;Fraud+Prevention+%7C+Security+%7C+Automation;TypeScript+%7C+Node.js+%7C+AWS+%7C+Kubernetes" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-vinicius-de-moraes)
 [![Location](https://img.shields.io/badge/São_Paulo,_Brasil-333333?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
@@ -13,9 +13,10 @@
 
 ## 🧑‍💻 About Me
 
-- 💼 Software Engineer at **Tivit**, building PHP and Node.js systems
+- 💼 Software Engineer at **Tivit**, on the **Decisions** team — security, fraud prevention and process automation
+- 🔐 Building resilient, secure systems with **TypeScript, Node.js, AWS Lambda and Kubernetes**
 - 🏗️ Focused on **Clean Architecture, DDD and TDD** to keep systems maintainable at scale
-- ⚡ Experience with high-performance, asynchronous and distributed systems
+- ⚡ Experience with high-performance, asynchronous and distributed systems (RabbitMQ, PHP)
 - 🌱 Always refining craft through design patterns and software best practices
 
 <br>
@@ -45,7 +46,8 @@
 
 **Infra & Cloud**
 
-<img src="https://skillicons.dev/icons?i=docker,nginx,gcp,aws" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,nginx" /> &nbsp;
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 </td>
@@ -68,7 +70,7 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ThomasMoraes02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasMoraes02&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ThomasMoraes02&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Thomas Moraes' GitHub stats" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasMoraes02&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages" />
 
 </div>

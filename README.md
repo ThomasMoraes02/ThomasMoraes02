@@ -2,7 +2,7 @@
 
 # Hi, I'm Thomas Moraes 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=339933&center=true&vCenter=true&width=560&lines=Software+Engineer+%40+Tivit+-+Decisions;Fraud+Prevention+%7C+Security+%7C+Automation;TypeScript+%7C+Node.js+%7C+AWS+%7C+Kubernetes" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=339933&center=true&vCenter=true&width=560&lines=Software+Engineer+%40+Tivit+Decisions;Fraud+Prevention+%7C+Credit+Analysis;Kubernetes+%7C+AWS+%7C+RabbitMQ+%7C+DevSecOps;AI-Powered+Automation" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-vinicius-de-moraes)
 [![Location](https://img.shields.io/badge/São_Paulo,_Brasil-333333?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
@@ -13,8 +13,10 @@
 
 ## 🧑‍💻 About Me
 
-- 💼 Software Engineer at **Tivit**, on the **Decisions** team — security, fraud prevention and process automation
-- 🔐 Building resilient, secure systems with **TypeScript, Node.js, AWS Lambda and Kubernetes**
+- 💼 Software Engineer at **Tivit Decisions** — fraud prevention and credit analysis platforms for large clients across **banking, logistics and enterprise**
+- ☸️ Day-to-day with **Kubernetes, RabbitMQ and AWS**, running critical, high-throughput decision pipelines
+- 🔐 Strong focus on **security and DevSecOps** — security embedded from code to deployment
+- 🤖 Applying **Artificial Intelligence to automate** fraud and credit decision processes
 - 🏗️ Focused on **Clean Architecture, DDD and TDD** to keep systems maintainable at scale
 - ⚡ Experience with high-performance, asynchronous and distributed systems (RabbitMQ, PHP)
 - 🌱 Always refining craft through design patterns and software best practices
@@ -49,6 +51,8 @@
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,nginx" /> &nbsp;
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-2E7D32?style=flat-square&logo=securityscorecard&logoColor=white)
+![AI Automation](https://img.shields.io/badge/AI_Automation-6E40C9?style=flat-square&logo=openai&logoColor=white)
 
 </td>
 </tr>
